@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **Python and Linux**
 
-- 👯 I’m looking to collaborate on [SportSync](https://github.com/hariom-cs/AQI-Predictor)
-
 - 👨‍💻 All of my projects are available at [https://github.com/hariom-cs](https://github.com/hariom-cs)
 
 - 💬 Ask me about **c c++ python javaScript**
 
 - 📫 How to reach me **hariomnitc@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lT1pdaSehuJdVNrZlCjv2PNnaI24bx2P/view?usp=sharing](https://drive.google.com/file/d/1lT1pdaSehuJdVNrZlCjv2PNnaI24bx2P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
